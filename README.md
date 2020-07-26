@@ -22,7 +22,7 @@ After cloning the repository, you will have the notebook on your computer and th
 The repository is containing only the notebook file. Inside the file we can find the code that I used in order to extract data from the dataset.
 
 ### Results  <a name="results"></a>
-The conclusions reached after performing the analysis can be found here. (TODO: insert link to blogpost)
+The conclusions reached after performing the analysis can be found [here](https://medium.com/@corina.palade103/what-does-it-take-to-reach-trending-on-youtube-bb5589c2689d).
 
 ### Acknowledgements  <a name="acknowledgements"></a>
 In order to create this notebook, I have used [Jupyter Notebook](https://jupyter.org/), [Python](https://www.python.org/), [Pandas](https://pandas.pydata.org/), [matplotlib](https://matplotlib.org/) and [sklearn](https://scikit-learn.org/stable/).
